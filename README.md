@@ -4,6 +4,10 @@
 
 相关：如何读取 MNIST 数据集，搭建 AlexNet 简单卷积神经网络，模型训练和验证。
 
+进入空目录，使用 `git` 下载
+```bash
+git clone https://github.com/isKage/mnist-classification.git
+```
 
 - PyTorch 的安装和环境配置可见 [zhihu](https://zhuanlan.zhihu.com/p/22230632892)
 - 安装指定依赖：【进入 `requirements.txt` 根目录下安装】
